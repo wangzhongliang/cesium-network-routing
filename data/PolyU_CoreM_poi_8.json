@@ -1,0 +1,1112 @@
+{
+	"name" : "poi_08",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17951620046655, 22.30391278339627, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"Name" : "M822",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17953413084955, 22.303943060029876, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"Name" : "M821",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17954706933322, 22.303988577708264, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"Name" : "M807",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1795520374337, 22.30389671914671, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"Name" : "M823",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17957334428213, 22.30393340835668, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"Name" : "M820",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17955197960758, 22.303967586872393, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"Name" : "M808",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17959157738649, 22.30395928616783, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"Name" : "M809",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17953881483655, 22.304014206721902, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"Name" : "M806",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17954884996895, 22.304027642297815, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"Name" : "M805",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17959729245979, 22.304001259449937, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"Name" : "M803",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17958186975486, 22.30401806929266, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"Name" : "M804",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17959996483657, 22.303884922550246, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"Name" : "M824",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1796348207716, 22.30387634377314, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"Name" : "M825",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1796278030901, 22.303921475279168, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"Name" : "M819",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17965651197974, 22.303914384848166, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"Name" : "M818",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1796395048074, 22.303947490462843, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"Name" : "M810",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1796583855984, 22.303942842981918, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"Name" : "M811",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17968710563667, 22.30386347514187, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"Name" : "M826",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17971615224062, 22.30385632599533, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"Name" : "M827",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1796841067503, 22.303907592441895, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"Name" : "M817",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17971460617936, 22.30390008565788, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"Name" : "M816",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1796918925756, 22.303934874685485, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"Name" : "M813",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1797164798096, 22.303928544694067, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"Name" : "M815",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17976316949779, 22.30385414787132, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"Name" : "M828",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17979698310779, 22.303845481481265, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"Name" : "M829a",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17978577085417, 22.303882570408238, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"Name" : "M829",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17976937610263, 22.303916030025455, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"Name" : "M830",
+				"Floor" : 8,
+				"Type" : "MeetingRoom",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17981378644652, 22.303904594654014, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"Name" : "M834",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17982397506286, 22.30392403737313, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29,
+				"Name" : "M835",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17983364151907, 22.30394164146866, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"Name" : "M836",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17983786735114, 22.303956507583177, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"Name" : "M837",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17984451753456, 22.303974437739015, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 32,
+				"Name" : "M838",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17985172008808, 22.30399977388876, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 33,
+				"Name" : "M839",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17985814328115, 22.30402237016512, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"Name" : "M840",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17978741973944, 22.303975840341153, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35,
+				"Name" : "M831",
+				"Floor" : 8,
+				"Type" : "CommonRoom",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1798646975025, 22.304045427902995, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"Name" : "M841",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17986966776418, 22.304062913782936, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 37,
+				"Name" : "M842",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1798762200482, 22.304085965198823, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 38,
+				"Name" : "M843",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17988157659777, 22.30410480837196, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39,
+				"Name" : "M844",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17988810073922, 22.304127757741863, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40,
+				"Name" : "M845",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17989952200104, 22.304151539641204, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41,
+				"Name" : "M846",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17987622559086, 22.30416251859469, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 42,
+				"Name" : "M847",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17985014268463, 22.30416369306197, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 43,
+				"Name" : "M848",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17982095820389, 22.304170360000132, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 44,
+				"Name" : "M849",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17982942474472, 22.304123611077827, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45,
+				"Name" : "M833a",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17982015682897, 22.30409100532334, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 46,
+				"Name" : "M833",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17981208950444, 22.30406262496925, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 47,
+				"Name" : "M832a",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1798024178426, 22.30402860051185, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 48,
+				"Name" : "M832",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17973349368873, 22.304033043015174, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 49,
+				"Name" : "StairCase",
+				"Floor" : 8,
+				"Type" : "Stair",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17974048949567, 22.30405765491834, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50,
+				"Name" : "StairCase",
+				"Floor" : 8,
+				"Type" : "Stair",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17968853302195, 22.304044109022136, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 51,
+				"Name" : "StairCase",
+				"Floor" : 8,
+				"Type" : "Stair",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17969532209686, 22.304068225150306, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 52,
+				"Name" : "StairCase",
+				"Floor" : 8,
+				"Type" : "Stair",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1797179317562, 22.3040274741149, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 53,
+				"Name" : "Lift1",
+				"Floor" : 8,
+				"Type" : "Lift",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17969122204681, 22.304034047970443, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 54,
+				"Name" : "Lift2",
+				"Floor" : 8,
+				"Type" : "Lift",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17966285377449, 22.304041030937253, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 55,
+				"Name" : "Lift3",
+				"Floor" : 8,
+				"Type" : "Lift",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.179684452481, 22.304110183368877, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 56,
+				"Name" : "Lift4",
+				"Floor" : 8,
+				"Type" : "Lift",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17971116220518, 22.304103609514524, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 57,
+				"Name" : "Lift5",
+				"Floor" : 8,
+				"Type" : "Lift",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17973761183656, 22.304097098874706, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 58,
+				"Name" : "Lift6",
+				"Floor" : 8,
+				"Type" : "Lift",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17976276586658, 22.30409090793764, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 59,
+				"Name" : "Lift7",
+				"Floor" : 8,
+				"Type" : "Lift",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17975377323246, 22.30413445280522, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 60,
+				"Name" : "M Toilet",
+				"Floor" : 8,
+				"Type" : "Toilet",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17971601257446, 22.30414374688376, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 61,
+				"Name" : "F Toilet",
+				"Floor" : 8,
+				"Type" : "Toilet",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17969142351234, 22.304157464818147, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 62,
+				"Name" : "D Toilet",
+				"Floor" : 8,
+				"Type" : "Toilet",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17979329156658, 22.304176898670615, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 63,
+				"Name" : "M850",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17976403914089, 22.304183323579384, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 64,
+				"Name" : "M851",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17973478574206, 22.30418974938593, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 65,
+				"Name" : "M852",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17970539646178, 22.304195692051923, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 66,
+				"Name" : "M853",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17967621196749, 22.30420235896401, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 67,
+				"Name" : "M854",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17964730213897, 22.304209990335355, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 68,
+				"Name" : "M855",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17962254306569, 22.3042158263446, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 69,
+				"Name" : "M856",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17959592278073, 22.304231509360374, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 70,
+				"Name" : "M857",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17958296613982, 22.30420233077263, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 71,
+				"Name" : "M858",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17957415214391, 22.304153236906473, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 72,
+				"Name" : "M801a",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1796058894492, 22.304118915527734, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 73,
+				"Name" : "M801",
+				"Floor" : 8,
+				"Type" : "GeneralOffice",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17957925517304, 22.304063538465925, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 74,
+				"Name" : "M802",
+				"Floor" : 8,
+				"Type" : "SeminarRoom",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17969735450355, 22.3039829029937, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 75,
+				"Name" : "M812",
+				"Floor" : 8,
+				"Type" : "PhotocopyingRoom",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17972113238034, 22.303977715388275, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 76,
+				"Name" : "M814",
+				"Floor" : 8,
+				"Type" : "Office",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1797420125285, 22.303980099999222, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 77,
+				"Name" : "MM803",
+				"Floor" : 8,
+				"Type" : "Pantry",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17966717733734, 22.303994316411323, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 78,
+				"Name" : "MM801-N",
+				"Floor" : 8,
+				"Type" : "PlantRoom",
+				"BuildingID" : "M"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.17973805551009, 22.30401105700663, 33 ]
+			},
+			"properties" : {
+				"OBJECTID" : 79,
+				"Name" : "MM804",
+				"Floor" : 8,
+				"Type" : "Data COMM RM",
+				"BuildingID" : "M"
+			}
+		}
+	]
+}
